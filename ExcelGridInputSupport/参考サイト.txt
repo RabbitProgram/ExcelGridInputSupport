@@ -1,0 +1,19 @@
+﻿【 参考サイト 】
+●アクティブウィンドウのタイトル・プロセスIDを取得：https://blog.kur.jp/entry/2009/12/05/activewin/
+●指定したウィンドウをアクティブにする：https://dobon.net/vb/dotnet/process/appactivate.html
+●キー送信：http://whoopsidaisies.hatenablog.com/entry/2013/11/27/222127
+●1文字ずつ処理する：https://www.atmarkit.co.jp/fdotnet/dotnettips/732parsechars/parsechars.html
+●指定したウィンドウをアクティブ化：https://dobon.net/vb/dotnet/process/appactivate.html
+●配列を逆にする：https://dobon.net/vb/dotnet/programing/arrayreverse.html
+●クリップボードにコピー・取得：https://dobon.net/vb/dotnet/string/clipboard.html
+●IMEをOFFにする：https://pgse.seesaa.net/article/283877036.html
+●ソフト起動時に指定したコントロールにフォーカスをセットする：https://www.atmarkit.co.jp/ait/articles/0411/05/news106.html
+●改行を置き換え：https://www.atmarkit.co.jp/ait/articles/1004/08/news094.html
+●
+●
+●
+●
+●
+●
+●
+
